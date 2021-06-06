@@ -1,4 +1,7 @@
-Projet TP3 - Introduction au machine learning
+L3_machine_learning_project_Titanic
+
+Project realized during the Teaching Unit "Introduction to Machine Learning" in L3 SID. Dataset from the Kaggle competition "Titanic - Machine Learning from Disaster"
+
 
 Installation: 
 	1) Ouvrir l'application Jupyter
