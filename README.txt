@@ -13,7 +13,6 @@ Installation:
 Contenu:
 	- Le fichier "TP3_Projet.ipynb" évoqué juste au-dessus.
 	- Le dossier 'img' contient une image permettant d'illuster à l'aide d'un schéma la validation croisée.
-	- Les autres fichiers (.csv) permettent de stocker différents DataFrames utilisés au cours du projet. L'explication est faite dans le fichier Notebook.
 
 
 Copyright (C)
